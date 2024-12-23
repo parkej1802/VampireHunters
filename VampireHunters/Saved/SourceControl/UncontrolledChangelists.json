@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/VampireHunters/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Unreal/VampireHunters/Content/FirstPerson/Blueprints/Enemy.uasset",
+				"C:/Unreal/VampireHunters/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Unreal/VampireHunters/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/0V/NVERQWU5BHAFO6G2KTB7UB.uasset",
+				"C:/Unreal/VampireHunters/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/BC/AYCHZHTJN9EYS3NB7GKD81.uasset",
+				"C:/Unreal/VampireHunters/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/Z0/O0LCEO889XKPX0E6WPECYZ.uasset",
+				"C:/Unreal/VampireHunters/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
+			]
+		}
+	]
+}
