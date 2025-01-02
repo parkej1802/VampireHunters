@@ -1,2 +1,3 @@
-2024/12/27-12:59:44.352 aa4 Creating DB C:/Users/MSI/Documents/VampireHunters/VampireHunters/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/12/27-12:59:44.367 aa4 Reusing MANIFEST C:/Users/MSI/Documents/VampireHunters/VampireHunters/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/12/31-11:41:00.233 271c Reusing MANIFEST C:/Unreal/sourcetree/VampireHunters/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/12/31-11:41:00.246 271c Recovering log #3
+2024/12/31-11:41:00.249 271c Reusing old log C:/Unreal/sourcetree/VampireHunters/Saved/webcache_4430\Local Storage\leveldb/000003.log 
