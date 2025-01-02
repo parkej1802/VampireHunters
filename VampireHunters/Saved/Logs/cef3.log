@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [1231/143132.006:ERROR:backend_impl.cc(1041)] Critical error found -8
 [1231/143132.809:WARNING:storage_block-inl.h(146)] Failed data load.
 [1231/143132.836:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
@@ -10,3 +11,7 @@ C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_
 C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
 
 [1231/143331.601:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+=======
+[1230/111324.471:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1230/111523.028:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+>>>>>>> restart
