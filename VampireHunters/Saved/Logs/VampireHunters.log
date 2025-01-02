@@ -8464,3 +8464,14 @@ Make sure '/Game/FirstPerson/Blueprints/BP_SpeedEnemy.BP_SpeedEnemy_C' has been 
 [2025.01.02-08.05.20:822][983]AssetCheck: /Game/FirstPerson/Blueprints/BP_EnemyGATE Validating asset
 [2025.01.02-08.05.20:822][983]AssetCheck: /Game/FirstPerson/Blueprints/BP_TankerEnemy Validating asset
 [2025.01.02-08.05.20:822][983]AssetCheck: /Game/FirstPerson/Blueprints/BP_SpeedEnemy Validating asset
+[2025.01.02-08.08.17:280][624]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 533...396
+[2025.01.02-08.08.17:280][624]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.88 RefreshExpires: 1.553e+07
+[2025.01.02-08.08.18:280][627]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 533...396 Access[Expires: 2025.01.02-10.08.18 Remaining: 7200.13] Refresh[Expires: 2025-07-01T00:53:08.983Z Remaining: 15525890.98] State: Valid
+[2025.01.02-08.08.24:481][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.01.02-08.08.28:416][904]LogSlate: Window 'BP_FirstPersonGameMode' being destroyed
+[2025.01.02-08.08.31:666][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.01.02-08.08.33:043][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.01.02-08.08.37:292][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.02-08.09.41:411][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21402.287109
+[2025.01.02-08.09.42:411][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.02-08.09.42:412][812]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21402.953125, Update Interval: 308.882721
