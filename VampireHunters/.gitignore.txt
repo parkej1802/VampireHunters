@@ -1,2 +1,9 @@
 VampireHunters/Intermediate
-VampireHunters/Saved
+
+VampireHunters/Saved/
+
+Saved/
+
+VampireHunters/VampireHunters/Saved/
+
+VampireHunters/Saved/Logs/
