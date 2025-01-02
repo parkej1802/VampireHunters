@@ -7,9 +7,7 @@
 			"files": [
 				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/Bullet/Bullet_SG.uasset",
 				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/Backup.uasset",
-				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/WeaponSelection.uasset",
 				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/Backup2.uasset",
-				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/BP_FirstPersonCharacter.uasset",
 				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/Cross.uasset",
 				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/Weapon/Weapon_SG.uasset",
 				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/testenemy.uasset",
@@ -25,7 +23,11 @@
 				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/Weapon/Weapon_RL.uasset",
 				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/Weapon/SubWeapon_A.uasset",
 				"C:/Unreal/sourcetree/VampireHunters/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/Bullet/Bullet_AK.uasset"
+				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/Bullet/Bullet_AK.uasset",
+				"C:/Unreal/sourcetree/VampireHunters/Content/Fab/Shotgun/SK_shotgun.uasset",
+				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/Bullet/Bullet_AWP.uasset",
+				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/WeaponSelection.uasset",
+				"C:/Unreal/sourcetree/VampireHunters/Content/SBS/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
