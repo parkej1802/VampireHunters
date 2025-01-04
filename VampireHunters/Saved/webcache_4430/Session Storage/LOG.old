@@ -1,3 +1,8 @@
-2024/12/31-11:41:04.060 271c Reusing MANIFEST C:/Unreal/sourcetree/VampireHunters/Saved/webcache_4430\Session Storage/MANIFEST-000001
-2024/12/31-11:41:04.074 271c Recovering log #3
-2024/12/31-11:41:04.075 271c Reusing old log C:/Unreal/sourcetree/VampireHunters/Saved/webcache_4430\Session Storage/000003.log 
+<<<<<<< HEAD
+2024/12/31-14:31:34.927 3c78 Reusing MANIFEST C:/Unreal/sourcetree/VampireHunters/Saved/webcache_4430\Session Storage/MANIFEST-000001
+2024/12/31-14:31:34.951 3c78 Recovering log #3
+2024/12/31-14:31:34.953 3c78 Reusing old log C:/Unreal/sourcetree/VampireHunters/Saved/webcache_4430\Session Storage/000003.log 
+=======
+2024/12/30-11:13:26.526 2104 Creating DB C:/Users/MSI/Documents/VampireHunters/VampireHunters/Saved/webcache_4430\Session Storage since it was missing.
+2024/12/30-11:13:26.539 2104 Reusing MANIFEST C:/Users/MSI/Documents/VampireHunters/VampireHunters/Saved/webcache_4430\Session Storage/MANIFEST-000001
+>>>>>>> restart
