@@ -6584,3 +6584,438 @@ Make sure '/Game/SBS/Bullet/Bullet_AWP.Bullet_AWP_C' has been compiled for  Get 
 [2025.01.05-14.23.27:484][370]AssetCheck: /Game/FirstPerson/UI/Stat_UI/WBP_Stat Validating asset
 [2025.01.05-14.23.27:485][370]AssetCheck: /Game/FirstPerson/UI/Upgrade_UI/Upgrade Validating asset
 [2025.01.05-14.23.27:485][370]AssetCheck: /Game/FirstPerson/SaveData/BP_GameData Validating asset
+[2025.01.05-14.26.38:171][608]LogBlueprint: Error: [AssetLog] C:\Users\MSI\Documents\VampireHunters\VampireHunters\Content\FirstPerson\UI\Upgrade_UI\Upgrade.uasset: [Compiler] This blueprint (self) is not a BP_FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2025.01.05-14.26.38:171][608]LogBlueprint: Error: [AssetLog] C:\Users\MSI\Documents\VampireHunters\VampireHunters\Content\FirstPerson\UI\Upgrade_UI\Upgrade.uasset: [Compiler] Variable node  Set isSetStat  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.01.05-14.26.38:231][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.05-14.26.51:744][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.01.05-14.26.57:069][664]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.05-14.26.57:110][664]LogPlayLevel: [PlayLevel] Compiling BP_GameData before play...
+[2025.01.05-14.26.57:219][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.01.05-14.26.57:229][664]LogPlayLevel: PlayLevel: Blueprint regeneration took 140 ms (1 blueprints)
+[2025.01.05-14.26.57:230][664]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.26.57:234][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004259s)
+[2025.01.05-14.26.57:234][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/VampireHuntersMap.VampireHuntersMap to /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap (0.004298s)
+[2025.01.05-14.26.57:256][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.01.05-14.26.57:264][664]LogChaosDD: Creating Chaos Debug Draw Scene for world VampireHuntersMap
+[2025.01.05-14.26.57:266][664]LogPlayLevel: PIE: World Init took: (0.001546s)
+[2025.01.05-14.26.57:267][664]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.01.05-14.26.57:267][664]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.05-14.26.57:267][664]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.05-14.26.57:267][664]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.05-14.26.57:267][664]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.05-14.26.57:267][664]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.05-14.26.57:267][664]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.05-14.26.57:267][664]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.05-14.26.57:267][664]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.05-14.26.57:267][664]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.05-14.26.57:267][664]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.05-14.26.57:267][664]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.05-14.26.57:269][664]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.05-14.26.57:328][664]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.01.05-14.26.57:328][664]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.05-14.26.57:328][664]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.05-14.26.57:328][664]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.05-14.26.57:329][664]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.01.05-14.26.57:329][664]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.01.05-14.26.57:331][664]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.01.05-14.26.57:331][664]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.01.05-14.26.57:331][664]LogInit: FAudioDevice initialized with ID 36.
+[2025.01.05-14.26.57:331][664]LogAudio: Display: Audio Device (ID: 36) registered with world 'VampireHuntersMap'.
+[2025.01.05-14.26.57:331][664]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2025.01.05-14.26.57:336][664]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.05-14.26.57:339][664]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap up for play (max tick rate 60) at 2025.01.05-23.26.57
+[2025.01.05-14.26.57:340][664]LogWorld: Bringing up level for play took: 0.002879
+[2025.01.05-14.26.57:342][664]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2025.01.05-14.26.57:352][664]PIE: Server logged in
+[2025.01.05-14.26.57:354][664]PIE: Play in editor total start time 0.266 seconds.
+[2025.01.05-14.27.01:108][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.27.01:108][874]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.27.01:109][874]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.05-14.27.01:109][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.27.01:115][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.05-14.27.01:121][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.27.01:147][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.27.01:147][874]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2025.01.05-14.27.01:147][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.01.05-14.27.01:149][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.01.05-14.27.01:161][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.05-14.27.01:216][875]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2025.01.05-14.27.02:737][965]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.05-14.27.02:755][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.05-14.27.02:756][965]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.27.02:761][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004729s)
+[2025.01.05-14.27.02:761][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/VampireHuntersMap.VampireHuntersMap to /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap (0.004761s)
+[2025.01.05-14.27.02:784][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.05-14.27.02:791][965]LogChaosDD: Creating Chaos Debug Draw Scene for world VampireHuntersMap
+[2025.01.05-14.27.02:793][965]LogPlayLevel: PIE: World Init took: (0.001650s)
+[2025.01.05-14.27.02:794][965]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.01.05-14.27.02:794][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.05-14.27.02:794][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.05-14.27.02:794][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.05-14.27.02:794][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.05-14.27.02:794][965]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.05-14.27.02:794][965]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.05-14.27.02:794][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.05-14.27.02:794][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.05-14.27.02:794][965]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.05-14.27.02:794][965]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.05-14.27.02:794][965]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.05-14.27.02:796][965]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.05-14.27.02:855][965]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.01.05-14.27.02:856][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.05-14.27.02:856][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.05-14.27.02:856][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.05-14.27.02:856][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.01.05-14.27.02:856][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.01.05-14.27.02:859][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.01.05-14.27.02:859][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.01.05-14.27.02:859][965]LogInit: FAudioDevice initialized with ID 37.
+[2025.01.05-14.27.02:859][965]LogAudio: Display: Audio Device (ID: 37) registered with world 'VampireHuntersMap'.
+[2025.01.05-14.27.02:859][965]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.01.05-14.27.02:888][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.27.02:888][965]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.05-14.27.02:892][965]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap up for play (max tick rate 60) at 2025.01.05-23.27.02
+[2025.01.05-14.27.02:892][965]LogWorld: Bringing up level for play took: 0.003838
+[2025.01.05-14.27.02:895][965]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2025.01.05-14.27.02:910][965]PIE: Server logged in
+[2025.01.05-14.27.02:913][965]PIE: Play in editor total start time 0.158 seconds.
+[2025.01.05-14.27.19:499][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.27.19:499][805]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.27.19:501][805]LogSlate: Window 'VampireHunters Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.05-14.27.19:535][805]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.05-14.27.19:536][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.27.19:538][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.05-14.27.19:545][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.27.19:573][805]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.01.05-14.27.19:573][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.01.05-14.27.19:575][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.01.05-14.27.19:586][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.01.05-14.27.19:632][806]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2025.01.05-14.27.20:408][851]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.05-14.27.20:425][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.05-14.27.20:426][851]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.27.20:431][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004360s)
+[2025.01.05-14.27.20:431][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/VampireHuntersMap.VampireHuntersMap to /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap (0.004392s)
+[2025.01.05-14.27.20:450][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.05-14.27.20:458][851]LogChaosDD: Creating Chaos Debug Draw Scene for world VampireHuntersMap
+[2025.01.05-14.27.20:459][851]LogPlayLevel: PIE: World Init took: (0.001629s)
+[2025.01.05-14.27.20:460][851]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.01.05-14.27.20:460][851]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.05-14.27.20:460][851]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.05-14.27.20:460][851]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.05-14.27.20:460][851]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.05-14.27.20:460][851]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.05-14.27.20:460][851]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.05-14.27.20:460][851]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.05-14.27.20:460][851]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.05-14.27.20:460][851]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.05-14.27.20:460][851]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.05-14.27.20:460][851]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.05-14.27.20:463][851]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.05-14.27.20:522][851]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.01.05-14.27.20:522][851]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.05-14.27.20:523][851]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.05-14.27.20:523][851]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.05-14.27.20:523][851]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.01.05-14.27.20:523][851]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.01.05-14.27.20:525][851]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.01.05-14.27.20:525][851]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.01.05-14.27.20:525][851]LogInit: FAudioDevice initialized with ID 38.
+[2025.01.05-14.27.20:525][851]LogAudio: Display: Audio Device (ID: 38) registered with world 'VampireHuntersMap'.
+[2025.01.05-14.27.20:525][851]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.01.05-14.27.20:550][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.27.20:550][851]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.05-14.27.20:553][851]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap up for play (max tick rate 60) at 2025.01.05-23.27.20
+[2025.01.05-14.27.20:553][851]LogWorld: Bringing up level for play took: 0.002524
+[2025.01.05-14.27.20:557][851]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2025.01.05-14.27.20:569][851]PIE: Server logged in
+[2025.01.05-14.27.20:572][851]PIE: Play in editor total start time 0.147 seconds.
+[2025.01.05-14.27.38:419][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.27.38:419][762]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.27.38:421][762]LogSlate: Window 'VampireHunters Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.05-14.27.38:450][762]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.05-14.27.38:451][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.27.38:454][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.05-14.27.38:461][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.27.38:488][762]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.01.05-14.27.38:488][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.01.05-14.27.38:490][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.01.05-14.27.38:500][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.01.05-14.27.38:545][763]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2025.01.05-14.28.07:693][471]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19828.531250
+[2025.01.05-14.28.07:961][487]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.05-14.28.07:961][487]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19828.783203, Update Interval: 351.111786
+[2025.01.05-14.30.53:448][698]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.05-14.30.53:469][698]LogPlayLevel: [PlayLevel] Compiling Upgrade before play...
+[2025.01.05-14.30.53:725][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.01.05-14.30.53:737][698]LogPlayLevel: PlayLevel: Blueprint regeneration took 269 ms (1 blueprints)
+[2025.01.05-14.30.53:737][698]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.30.53:742][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004322s)
+[2025.01.05-14.30.53:742][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/VampireHuntersMap.VampireHuntersMap to /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap (0.004357s)
+[2025.01.05-14.30.53:763][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.01.05-14.30.53:771][698]LogChaosDD: Creating Chaos Debug Draw Scene for world VampireHuntersMap
+[2025.01.05-14.30.53:773][698]LogPlayLevel: PIE: World Init took: (0.001610s)
+[2025.01.05-14.30.53:774][698]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.01.05-14.30.53:774][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.05-14.30.53:774][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.05-14.30.53:774][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.05-14.30.53:774][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.05-14.30.53:774][698]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.05-14.30.53:774][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.05-14.30.53:774][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.05-14.30.53:774][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.05-14.30.53:774][698]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.05-14.30.53:774][698]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.05-14.30.53:774][698]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.05-14.30.53:776][698]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.05-14.30.53:861][698]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.01.05-14.30.53:861][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.05-14.30.53:861][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.05-14.30.53:861][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.05-14.30.53:862][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.01.05-14.30.53:862][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.01.05-14.30.53:865][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.01.05-14.30.53:865][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.01.05-14.30.53:865][698]LogInit: FAudioDevice initialized with ID 39.
+[2025.01.05-14.30.53:865][698]LogAudio: Display: Audio Device (ID: 39) registered with world 'VampireHuntersMap'.
+[2025.01.05-14.30.53:865][698]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.01.05-14.30.53:901][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.30.53:901][698]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.05-14.30.53:905][698]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap up for play (max tick rate 60) at 2025.01.05-23.30.53
+[2025.01.05-14.30.53:905][698]LogWorld: Bringing up level for play took: 0.003277
+[2025.01.05-14.30.53:910][698]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2025.01.05-14.30.53:923][698]PIE: Server logged in
+[2025.01.05-14.30.53:924][698]PIE: Play in editor total start time 0.457 seconds.
+[2025.01.05-14.31.12:569][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.31.12:569][624]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.31.12:570][624]LogSlate: Window 'VampireHunters Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.05-14.31.12:587][624]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.05-14.31.12:588][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.31.12:591][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.05-14.31.12:598][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.31.12:625][624]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.01.05-14.31.12:625][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.01.05-14.31.12:627][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.01.05-14.31.12:640][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.01.05-14.31.12:693][625]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2025.01.05-14.31.19:420][992]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.05-14.31.19:440][992]LogPlayLevel: [PlayLevel] Compiling Upgrade before play...
+[2025.01.05-14.31.19:701][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.05-14.31.19:710][992]LogPlayLevel: PlayLevel: Blueprint regeneration took 270 ms (1 blueprints)
+[2025.01.05-14.31.19:710][992]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.31.19:715][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004388s)
+[2025.01.05-14.31.19:715][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/VampireHuntersMap.VampireHuntersMap to /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap (0.004419s)
+[2025.01.05-14.31.19:736][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.05-14.31.19:744][992]LogChaosDD: Creating Chaos Debug Draw Scene for world VampireHuntersMap
+[2025.01.05-14.31.19:745][992]LogPlayLevel: PIE: World Init took: (0.001546s)
+[2025.01.05-14.31.19:746][992]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.01.05-14.31.19:746][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.05-14.31.19:746][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.05-14.31.19:746][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.05-14.31.19:746][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.05-14.31.19:746][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.05-14.31.19:746][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.05-14.31.19:746][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.05-14.31.19:746][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.05-14.31.19:746][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.05-14.31.19:746][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.05-14.31.19:746][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.05-14.31.19:748][992]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.05-14.31.19:807][992]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.01.05-14.31.19:807][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.05-14.31.19:807][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.05-14.31.19:807][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.05-14.31.19:807][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.01.05-14.31.19:807][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.01.05-14.31.19:810][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.01.05-14.31.19:811][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.01.05-14.31.19:811][992]LogInit: FAudioDevice initialized with ID 40.
+[2025.01.05-14.31.19:811][992]LogAudio: Display: Audio Device (ID: 40) registered with world 'VampireHuntersMap'.
+[2025.01.05-14.31.19:811][992]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.01.05-14.31.19:844][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.31.19:844][992]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.05-14.31.19:847][992]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap up for play (max tick rate 60) at 2025.01.05-23.31.19
+[2025.01.05-14.31.19:848][992]LogWorld: Bringing up level for play took: 0.002716
+[2025.01.05-14.31.19:851][992]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2025.01.05-14.31.19:868][992]PIE: Server logged in
+[2025.01.05-14.31.19:869][992]PIE: Play in editor total start time 0.431 seconds.
+[2025.01.05-14.31.29:009][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.31.29:009][423]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.31.29:011][423]LogSlate: Window 'VampireHunters Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.05-14.31.29:033][423]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.05-14.31.29:034][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.31.29:037][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.05-14.31.29:046][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.31.29:072][423]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.01.05-14.31.29:072][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.01.05-14.31.29:074][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.01.05-14.31.29:086][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.01.05-14.31.29:136][424]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2025.01.05-14.31.33:008][656]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.05-14.31.33:026][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.05-14.31.33:026][656]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.31.33:031][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004651s)
+[2025.01.05-14.31.33:031][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/VampireHuntersMap.VampireHuntersMap to /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap (0.004682s)
+[2025.01.05-14.31.33:052][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.05-14.31.33:060][656]LogChaosDD: Creating Chaos Debug Draw Scene for world VampireHuntersMap
+[2025.01.05-14.31.33:061][656]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2025.01.05-14.31.33:062][656]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.01.05-14.31.33:062][656]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.05-14.31.33:062][656]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.05-14.31.33:062][656]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.05-14.31.33:062][656]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.05-14.31.33:062][656]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.05-14.31.33:062][656]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.05-14.31.33:062][656]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.05-14.31.33:062][656]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.05-14.31.33:062][656]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.05-14.31.33:062][656]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.05-14.31.33:062][656]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.05-14.31.33:064][656]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.05-14.31.33:124][656]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.01.05-14.31.33:124][656]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.05-14.31.33:124][656]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.05-14.31.33:124][656]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.05-14.31.33:124][656]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.01.05-14.31.33:124][656]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.01.05-14.31.33:127][656]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.01.05-14.31.33:127][656]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.01.05-14.31.33:127][656]LogInit: FAudioDevice initialized with ID 41.
+[2025.01.05-14.31.33:127][656]LogAudio: Display: Audio Device (ID: 41) registered with world 'VampireHuntersMap'.
+[2025.01.05-14.31.33:127][656]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.01.05-14.31.33:160][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.31.33:160][656]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.05-14.31.33:163][656]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap up for play (max tick rate 60) at 2025.01.05-23.31.33
+[2025.01.05-14.31.33:163][656]LogWorld: Bringing up level for play took: 0.002965
+[2025.01.05-14.31.33:166][656]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2025.01.05-14.31.33:185][656]PIE: Server logged in
+[2025.01.05-14.31.33:190][656]PIE: Play in editor total start time 0.165 seconds.
+[2025.01.05-14.31.43:195][153]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.43:195][153]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.43:195][153]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.43:195][153]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.43:702][180]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.43:702][180]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.43:703][180]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.43:703][180]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.44:207][207]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.44:207][207]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.44:207][207]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.44:207][207]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.44:735][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.44:735][218]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.44:735][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.44:735][218]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.45:235][244]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.45:235][244]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.45:235][244]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.45:235][244]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.45:738][254]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.05-14.31.46:309][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.31.46:309][277]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.31.46:311][277]LogSlate: Window 'VampireHunters Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.05-14.31.46:331][277]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.05-14.31.46:332][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.31.46:335][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.05-14.31.46:344][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.31.46:370][277]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.01.05-14.31.46:370][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.01.05-14.31.46:372][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.01.05-14.31.46:385][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.01.05-14.31.46:434][278]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2025.01.05-14.31.47:117][319]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.05-14.31.47:135][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.05-14.31.47:135][319]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.31.47:140][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004446s)
+[2025.01.05-14.31.47:140][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/VampireHuntersMap.VampireHuntersMap to /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap (0.004477s)
+[2025.01.05-14.31.47:162][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.01.05-14.31.47:169][319]LogChaosDD: Creating Chaos Debug Draw Scene for world VampireHuntersMap
+[2025.01.05-14.31.47:171][319]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2025.01.05-14.31.47:172][319]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2025.01.05-14.31.47:172][319]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.05-14.31.47:172][319]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.05-14.31.47:172][319]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.05-14.31.47:172][319]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.05-14.31.47:172][319]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.05-14.31.47:172][319]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.05-14.31.47:172][319]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.05-14.31.47:172][319]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.05-14.31.47:172][319]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.05-14.31.47:172][319]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.05-14.31.47:172][319]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.05-14.31.47:174][319]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.05-14.31.47:232][319]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.01.05-14.31.47:232][319]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.05-14.31.47:232][319]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.05-14.31.47:232][319]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.05-14.31.47:233][319]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2025.01.05-14.31.47:233][319]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2025.01.05-14.31.47:235][319]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2025.01.05-14.31.47:235][319]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2025.01.05-14.31.47:235][319]LogInit: FAudioDevice initialized with ID 42.
+[2025.01.05-14.31.47:235][319]LogAudio: Display: Audio Device (ID: 42) registered with world 'VampireHuntersMap'.
+[2025.01.05-14.31.47:235][319]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2025.01.05-14.31.47:261][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.31.47:261][319]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.05-14.31.47:263][319]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap up for play (max tick rate 60) at 2025.01.05-23.31.47
+[2025.01.05-14.31.47:264][319]LogWorld: Bringing up level for play took: 0.002519
+[2025.01.05-14.31.47:266][319]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2025.01.05-14.31.47:281][319]PIE: Server logged in
+[2025.01.05-14.31.47:286][319]PIE: Play in editor total start time 0.152 seconds.
+[2025.01.05-14.31.54:990][703]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.54:990][703]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.54:990][703]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.54:990][703]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.55:500][730]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.55:501][730]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.55:501][730]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.55:501][730]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.56:015][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.56:015][741]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.56:015][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.56:016][741]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.56:529][769]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.56:529][769]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.56:529][769]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.56:529][769]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.57:188][787]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.57:188][787]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.57:188][787]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.05-14.31.57:188][787]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.05-14.31.57:700][813]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.05-14.31.57:918][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.05-14.31.57:918][822]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.05-14.31.57:920][822]LogSlate: Window 'VampireHunters Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.05-14.31.57:924][822]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.05-14.31.57:925][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.31.57:928][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.05-14.31.57:935][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.05-14.31.57:963][822]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2025.01.05-14.31.57:963][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.01.05-14.31.57:965][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.01.05-14.31.57:978][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.01.05-14.31.58:027][823]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2025.01.05-14.31.59:862][922]LogChaosDD: Creating Chaos Debug Draw Scene for world World_56
+[2025.01.05-14.32.00:216][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.01.05-14.32.00:226][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.05-14.32.00:261][939]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/UI/Upgrade_UI/Upgrade] ([2] browsable assets)...
+[2025.01.05-14.32.00:264][939]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/UI/Upgrade_UI/Upgrade.Upgrade]
+[2025.01.05-14.32.00:264][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/UI/Upgrade_UI/Upgrade]
+[2025.01.05-14.32.00:288][939]LogSavePackage: Moving output files for package: /Game/FirstPerson/UI/Upgrade_UI/Upgrade
+[2025.01.05-14.32.00:288][939]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/VampireHunters/VampireHunters/Saved/Upgrade4517F1194BC1D6ACB2E110B0FB1F75A4.tmp' to '../../../../../../Users/MSI/Documents/VampireHunters/VampireHunters/Content/FirstPerson/UI/Upgrade_UI/Upgrade.uasset'
+[2025.01.05-14.32.00:290][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/SaveData/BP_GameData] ([2] browsable assets)...
+[2025.01.05-14.32.00:290][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/SaveData/BP_GameData]
+[2025.01.05-14.32.00:290][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/SaveData/BP_GameData" FILE="../../../../../../Users/MSI/Documents/VampireHunters/VampireHunters/Content/FirstPerson/SaveData/BP_GameData.uasset" SILENT=true
+[2025.01.05-14.32.00:291][939]LogSavePackage: Moving output files for package: /Game/FirstPerson/SaveData/BP_GameData
+[2025.01.05-14.32.00:292][939]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/VampireHunters/VampireHunters/Saved/BP_GameData895AF96041348487D2AEA99E161132C0.tmp' to '../../../../../../Users/MSI/Documents/VampireHunters/VampireHunters/Content/FirstPerson/SaveData/BP_GameData.uasset'
+[2025.01.05-14.32.00:305][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.838 ms (total: 942.125 ms)
+[2025.01.05-14.32.00:337][939]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.05-14.32.00:337][939]LogContentValidation: Enabled validators:
+[2025.01.05-14.32.00:337][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.05-14.32.00:337][939]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.05-14.32.00:337][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.05-14.32.00:337][939]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.05-14.32.00:337][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.05-14.32.00:337][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.05-14.32.00:339][939]AssetCheck: /Game/FirstPerson/UI/Upgrade_UI/Upgrade Validating asset
+[2025.01.05-14.32.00:339][939]AssetCheck: /Game/FirstPerson/SaveData/BP_GameData Validating asset
