@@ -20166,3 +20166,1040 @@ Make sure '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCh
 [2025.01.06-08.36.05:967][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12699.663086
 [2025.01.06-08.36.06:965][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.06-08.36.06:965][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12700.331055, Update Interval: 333.470886
+[2025.01.06-08.42.17:327][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13071.022461
+[2025.01.06-08.42.18:325][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.06-08.42.18:325][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13071.692383, Update Interval: 318.602264
+[2025.01.06-08.46.44:395][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2025.01.06-08.46.44:405][ 64]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/VampireHuntersMap' took 0.409
+[2025.01.06-08.46.44:408][ 64]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SBS/WeaponSelection] ([2] browsable assets)...
+[2025.01.06-08.46.44:425][ 64]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/SBS/WeaponSelection.WeaponSelection]
+[2025.01.06-08.46.44:425][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/WeaponSelection]
+[2025.01.06-08.46.44:425][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/WeaponSelection" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/WeaponSelection_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2025.01.06-08.46.44:479][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SBS/WeaponSelection_Auto9
+[2025.01.06-08.46.44:480][ 64]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/WeaponSelection_Auto9B9B733C74C5533D83AF1E0993F9DF957.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/WeaponSelection_Auto9.uasset'
+[2025.01.06-08.46.44:482][ 64]LogFileHelpers: Auto-saving content packages took 0.075
+[2025.01.06-08.48.13:739][428]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13427.440430
+[2025.01.06-08.48.14:027][436]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.06-08.48.14:027][436]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13427.699219, Update Interval: 331.637939
+[2025.01.06-08.48.17:062][523]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2025.01.06-08.48.46:929][746]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.01.06-08.48.46:981][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.06-08.48.46:986][746]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.06-08.48.47:035][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048439s)
+[2025.01.06-08.48.47:035][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/VampireHuntersMap.VampireHuntersMap to /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap (0.048526s)
+[2025.01.06-08.48.47:093][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2025.01.06-08.48.47:104][746]LogChaosDD: Creating Chaos Debug Draw Scene for world VampireHuntersMap
+[2025.01.06-08.48.47:109][746]LogPlayLevel: PIE: World Init took: (0.004356s)
+[2025.01.06-08.48.47:111][746]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.01.06-08.48.47:111][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.06-08.48.47:111][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.06-08.48.47:111][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.06-08.48.47:111][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.06-08.48.47:111][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.06-08.48.47:111][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.06-08.48.47:111][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.06-08.48.47:111][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.06-08.48.47:111][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.06-08.48.47:111][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.06-08.48.47:112][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.06-08.48.47:117][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.06-08.48.47:159][746]LogAudioMixer: Display: Using Audio Hardware Device LG FHD(NVIDIA High Definition Audio)
+[2025.01.06-08.48.47:160][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.06-08.48.47:160][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.06-08.48.47:160][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.06-08.48.47:161][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.01.06-08.48.47:161][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.01.06-08.48.47:170][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.01.06-08.48.47:170][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.01.06-08.48.47:170][746]LogInit: FAudioDevice initialized with ID 28.
+[2025.01.06-08.48.47:170][746]LogAudio: Display: Audio Device (ID: 28) registered with world 'VampireHuntersMap'.
+[2025.01.06-08.48.47:170][746]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.01.06-08.48.47:356][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.06-08.48.47:357][746]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.06-08.48.47:396][746]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap up for play (max tick rate 60) at 2025.01.06-17.48.47
+[2025.01.06-08.48.47:398][746]LogWorld: Bringing up level for play took: 0.039496
+[2025.01.06-08.48.47:411][746]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2025.01.06-08.48.47:469][746]PIE: Server logged in
+[2025.01.06-08.48.47:478][746]PIE: Play in editor total start time 0.497 seconds.
+[2025.01.06-08.48.50:008][802]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.50:009][802]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.50:011][802]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.50:011][802]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.50:567][817]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.50:567][817]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.50:569][817]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.50:569][817]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.51:104][832]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.51:104][832]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.51:105][832]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.51:105][832]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.51:633][845]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.51:633][845]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.51:634][845]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.51:634][845]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.52:145][852]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.52:145][852]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.52:146][852]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.52:146][852]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.52:649][858]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.48.53:681][880]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.48.53:681][880]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.53:681][880]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.53:682][880]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.53:682][880]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.54:203][890]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.54:203][890]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.54:204][890]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.54:204][890]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.54:738][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.54:738][903]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.54:739][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.54:740][903]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.55:269][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.55:270][916]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.55:271][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.55:271][916]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.55:780][927]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.55:780][927]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.55:781][927]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.55:781][927]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.56:310][941]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.48.57:342][967]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.48.57:380][968]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.57:380][968]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.57:381][968]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.57:381][968]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.57:909][979]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.57:909][979]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.57:911][979]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.57:911][979]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.58:436][992]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.58:436][992]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.58:437][992]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.58:438][992]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.58:973][  1]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.58:973][  1]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.58:975][  1]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.58:975][  1]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.59:474][ 13]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.59:475][ 13]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.48.59:477][ 13]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.48.59:477][ 13]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.00:009][ 23]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.49.01:044][ 46]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.49.01:045][ 46]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.01:045][ 46]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.01:047][ 46]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.01:047][ 46]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.01:563][ 56]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.01:564][ 56]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.01:569][ 56]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.01:569][ 56]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.02:112][ 65]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.02:113][ 65]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.02:114][ 65]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.02:114][ 65]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.02:657][ 72]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.02:657][ 72]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.02:658][ 72]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.02:658][ 72]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.03:180][ 80]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.03:180][ 80]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.03:181][ 80]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.03:181][ 80]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.03:762][ 90]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2
+[2025.01.06-08.49.03:768][ 90]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.06-08.49.03:768][ 90]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.01.06-08.49.03:776][ 90]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.49.15:065][332]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.06-08.49.15:065][332]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.01.06-08.49.15:559][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.15:560][336]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_1
+[2025.01.06-08.49.15:560][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.15:560][336]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_1
+[2025.01.06-08.49.16:068][342]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.49.16:068][342]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.16:068][342]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.16:069][342]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.16:069][342]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.16:073][342]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.16:073][342]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_1
+[2025.01.06-08.49.16:074][342]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.16:074][342]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_1
+[2025.01.06-08.49.16:659][350]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.16:659][350]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.16:661][350]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.16:661][350]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.16:664][350]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.16:664][350]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_1
+[2025.01.06-08.49.16:664][350]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.16:664][350]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_1
+[2025.01.06-08.49.17:182][356]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.17:182][356]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.17:183][356]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.17:183][356]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.17:189][356]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.17:189][356]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_1
+[2025.01.06-08.49.17:190][356]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.17:190][356]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_1
+[2025.01.06-08.49.17:917][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.17:917][361]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.17:917][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.17:917][361]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.17:922][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.17:922][361]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_1
+[2025.01.06-08.49.17:922][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.17:923][361]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_1
+[2025.01.06-08.49.18:426][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.06-08.49.18:427][366]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.06-08.49.18:428][366]LogSlate: Window 'VampireHunters Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.06-08.49.18:458][366]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-08.49.18:473][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-08.49.18:486][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.06-08.49.18:515][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-08.49.18:626][366]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.06-08.49.18:627][366]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.01.06-08.49.18:628][366]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.01.06-08.49.18:633][366]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.01.06-08.49.18:677][366]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2025.01.06-08.49.18:798][367]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2025.01.06-08.49.49:241][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2025.01.06-08.49.51:070][999]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.01.06-08.49.51:126][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.06-08.49.51:128][999]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.06-08.49.51:178][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050366s)
+[2025.01.06-08.49.51:178][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/VampireHuntersMap.VampireHuntersMap to /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap (0.050461s)
+[2025.01.06-08.49.51:244][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2025.01.06-08.49.51:262][999]LogChaosDD: Creating Chaos Debug Draw Scene for world VampireHuntersMap
+[2025.01.06-08.49.51:266][999]LogPlayLevel: PIE: World Init took: (0.004199s)
+[2025.01.06-08.49.51:269][999]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.01.06-08.49.51:270][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.06-08.49.51:270][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.06-08.49.51:270][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.06-08.49.51:270][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.06-08.49.51:270][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.06-08.49.51:270][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.06-08.49.51:270][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.06-08.49.51:270][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.06-08.49.51:270][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.06-08.49.51:270][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.06-08.49.51:270][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.06-08.49.51:275][999]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.06-08.49.51:318][999]LogAudioMixer: Display: Using Audio Hardware Device LG FHD(NVIDIA High Definition Audio)
+[2025.01.06-08.49.51:319][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.06-08.49.51:319][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.06-08.49.51:319][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.06-08.49.51:320][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.01.06-08.49.51:320][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.01.06-08.49.51:328][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.01.06-08.49.51:328][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.01.06-08.49.51:328][999]LogInit: FAudioDevice initialized with ID 29.
+[2025.01.06-08.49.51:328][999]LogAudio: Display: Audio Device (ID: 29) registered with world 'VampireHuntersMap'.
+[2025.01.06-08.49.51:328][999]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.01.06-08.49.51:527][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.06-08.49.51:527][999]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.06-08.49.51:570][999]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap up for play (max tick rate 60) at 2025.01.06-17.49.51
+[2025.01.06-08.49.51:572][999]LogWorld: Bringing up level for play took: 0.043436
+[2025.01.06-08.49.51:584][999]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2025.01.06-08.49.51:649][999]PIE: Server logged in
+[2025.01.06-08.49.51:658][999]PIE: Play in editor total start time 0.532 seconds.
+[2025.01.06-08.49.54:701][ 66]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.54:701][ 66]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.54:702][ 66]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.54:702][ 66]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.55:201][ 77]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.55:201][ 77]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.55:202][ 77]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.55:202][ 77]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.55:724][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.55:724][ 91]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.55:725][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.55:725][ 91]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.56:287][104]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.56:287][104]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.56:288][104]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.56:288][104]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.56:853][112]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.56:853][112]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.56:854][112]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.56:855][112]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.57:409][119]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.49.58:456][140]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.49.58:456][140]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.58:456][140]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.58:458][140]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.58:458][140]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.58:967][152]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.58:967][152]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.58:968][152]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.58:968][152]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.59:496][165]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.59:496][165]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.49.59:497][165]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.49.59:497][165]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.00:032][178]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.00:032][178]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.00:033][178]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.00:033][178]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.00:568][190]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.00:568][190]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.00:569][190]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.00:570][190]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.01:080][203]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.50.02:089][229]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.50.02:131][230]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.02:131][230]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.02:132][230]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.02:132][230]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.02:661][242]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.02:661][242]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.02:662][242]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.02:662][242]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.03:187][255]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.03:187][255]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.03:188][255]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.03:188][255]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.03:692][267]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.03:692][267]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.03:693][267]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.03:693][267]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.04:206][280]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.04:206][280]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.04:208][280]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.04:208][280]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.04:711][291]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.50.05:724][314]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.50.05:771][315]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.05:771][315]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.05:772][315]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.05:772][315]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.06:274][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.06:274][326]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.06:275][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.06:275][326]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.06:799][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.06:799][337]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.06:800][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.06:800][337]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.07:299][348]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.07:299][348]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.07:300][348]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.07:300][348]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.07:815][359]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.07:816][359]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.07:817][359]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.07:817][359]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.08:375][371]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.50.09:359][392]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.50.09:359][392]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.09:359][392]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.09:361][392]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.09:361][392]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.09:887][402]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.09:887][402]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.09:888][402]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.09:888][402]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.10:455][413]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.10:455][413]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.10:457][413]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.10:457][413]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.10:965][423]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.10:965][423]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.10:965][423]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.10:965][423]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.11:495][434]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.11:495][434]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.11:495][434]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.11:495][434]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.12:044][445]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.50.13:096][465]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.50.13:096][465]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.13:096][465]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.13:097][465]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.13:097][465]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.13:632][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.13:632][475]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.13:632][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.13:633][475]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.14:154][484]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.14:155][484]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.14:155][484]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.14:155][484]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.14:680][493]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.14:680][493]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.14:681][493]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.14:681][493]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.15:230][502]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.15:231][502]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.15:231][502]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.50.15:231][502]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.50.15:743][511]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.50.16:273][520]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2
+[2025.01.06-08.50.16:274][520]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.06-08.50.16:275][520]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.01.06-08.50.26:707][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.06-08.50.26:707][832]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.06-08.50.26:708][832]LogSlate: Window 'VampireHunters Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.06-08.50.26:741][832]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-08.50.26:754][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-08.50.26:799][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.06-08.50.26:837][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-08.50.26:932][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.06-08.50.26:933][832]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.01.06-08.50.26:933][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.01.06-08.50.26:938][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.01.06-08.50.26:984][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2025.01.06-08.50.27:077][833]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2025.01.06-08.54.17:428][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13791.111328
+[2025.01.06-08.54.17:698][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.06-08.54.17:698][908]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13791.354492, Update Interval: 337.931458
+[2025.01.06-08.54.21:781][ 63]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.06-08.54.21:781][ 63]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-08.54.21:781][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-08.54.22:127][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2025.01.06-08.54.24:203][104]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.06-08.54.24:203][104]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-08.54.24:204][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-08.54.24:465][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2025.01.06-08.54.35:668][536]LogEditorTransaction: Undo Reset to Default
+[2025.01.06-08.55.41:569][660]LogEditorTransaction: Undo Changed Anchors
+[2025.01.06-08.56.43:072][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.01.06-08.56.46:919][ 61]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.01.06-08.56.46:975][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.06-08.56.46:978][ 61]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.06-08.56.47:024][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046916s)
+[2025.01.06-08.56.47:025][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/VampireHuntersMap.VampireHuntersMap to /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap (0.047029s)
+[2025.01.06-08.56.47:083][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2025.01.06-08.56.47:090][ 61]LogChaosDD: Creating Chaos Debug Draw Scene for world VampireHuntersMap
+[2025.01.06-08.56.47:094][ 61]LogPlayLevel: PIE: World Init took: (0.003506s)
+[2025.01.06-08.56.47:096][ 61]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.01.06-08.56.47:096][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.06-08.56.47:096][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.06-08.56.47:096][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.06-08.56.47:096][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.06-08.56.47:097][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.06-08.56.47:097][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.06-08.56.47:097][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.06-08.56.47:097][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.06-08.56.47:097][ 61]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.06-08.56.47:097][ 61]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.06-08.56.47:097][ 61]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.06-08.56.47:102][ 61]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.06-08.56.47:144][ 61]LogAudioMixer: Display: Using Audio Hardware Device LG FHD(NVIDIA High Definition Audio)
+[2025.01.06-08.56.47:144][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.06-08.56.47:144][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.06-08.56.47:144][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.06-08.56.47:145][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.01.06-08.56.47:145][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.01.06-08.56.47:154][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.01.06-08.56.47:154][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.01.06-08.56.47:154][ 61]LogInit: FAudioDevice initialized with ID 30.
+[2025.01.06-08.56.47:155][ 61]LogAudio: Display: Audio Device (ID: 30) registered with world 'VampireHuntersMap'.
+[2025.01.06-08.56.47:155][ 61]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.01.06-08.56.47:348][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.06-08.56.47:348][ 61]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.06-08.56.47:395][ 61]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap up for play (max tick rate 60) at 2025.01.06-17.56.47
+[2025.01.06-08.56.47:396][ 61]LogWorld: Bringing up level for play took: 0.046706
+[2025.01.06-08.56.47:410][ 61]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2025.01.06-08.56.47:470][ 61]PIE: Server logged in
+[2025.01.06-08.56.47:480][ 61]PIE: Play in editor total start time 0.505 seconds.
+[2025.01.06-08.56.51:386][151]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.51:386][151]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.51:386][151]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.51:386][151]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.51:887][165]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.51:887][165]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.51:888][165]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.51:888][165]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.52:411][180]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.52:411][180]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.52:412][180]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.52:412][180]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.52:946][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.52:947][194]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.52:947][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.52:947][194]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.53:446][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.53:446][206]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.53:446][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.53:446][206]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.53:955][219]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.56.54:977][246]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.56.55:016][247]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.55:016][247]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.55:016][247]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.55:016][247]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.55:551][261]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.55:551][261]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.55:551][261]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.55:552][261]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.56:083][275]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.56:083][275]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.56:083][275]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.56:083][275]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.56:621][289]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.56:621][289]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.56:621][289]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.56:621][289]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.57:147][302]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.57:147][302]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.57:147][302]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.57:148][302]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.57:678][315]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.56.58:689][338]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.56.58:730][339]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.58:730][339]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.58:731][339]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.58:731][339]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.59:248][351]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.59:248][351]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.59:248][351]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.59:249][351]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.59:759][363]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.59:760][363]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.56.59:760][363]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.56.59:760][363]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.57.00:289][375]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.57.00:289][375]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.57.00:289][375]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.57.00:289][375]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.57.00:818][387]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.57.00:818][387]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.57.00:818][387]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.57.00:818][387]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.57.01:342][398]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.57.01:606][404]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2
+[2025.01.06-08.57.01:608][404]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.06-08.57.01:608][404]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.01.06-08.57.06:352][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.06-08.57.06:352][544]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.06-08.57.06:353][544]LogSlate: Window 'VampireHunters Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.06-08.57.06:399][544]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-08.57.06:409][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-08.57.06:458][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.06-08.57.06:482][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-08.57.06:557][544]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.06-08.57.06:558][544]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.01.06-08.57.06:558][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.01.06-08.57.06:564][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.01.06-08.57.06:595][544]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2025.01.06-08.57.06:684][545]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2025.01.06-08.59.04:301][150]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2025.01.06-08.59.07:974][261]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.01.06-08.59.08:026][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.06-08.59.08:027][261]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.06-08.59.08:073][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046764s)
+[2025.01.06-08.59.08:073][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/VampireHuntersMap.VampireHuntersMap to /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap (0.046852s)
+[2025.01.06-08.59.08:134][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2025.01.06-08.59.08:151][261]LogChaosDD: Creating Chaos Debug Draw Scene for world VampireHuntersMap
+[2025.01.06-08.59.08:154][261]LogPlayLevel: PIE: World Init took: (0.003423s)
+[2025.01.06-08.59.08:157][261]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.01.06-08.59.08:157][261]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.06-08.59.08:157][261]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.06-08.59.08:157][261]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.06-08.59.08:157][261]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.06-08.59.08:157][261]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.06-08.59.08:157][261]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.06-08.59.08:157][261]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.06-08.59.08:157][261]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.06-08.59.08:157][261]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.06-08.59.08:157][261]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.06-08.59.08:157][261]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.06-08.59.08:163][261]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.06-08.59.08:204][261]LogAudioMixer: Display: Using Audio Hardware Device LG FHD(NVIDIA High Definition Audio)
+[2025.01.06-08.59.08:204][261]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.06-08.59.08:205][261]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.06-08.59.08:205][261]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.06-08.59.08:206][261]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.01.06-08.59.08:206][261]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.01.06-08.59.08:213][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.01.06-08.59.08:213][261]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.01.06-08.59.08:213][261]LogInit: FAudioDevice initialized with ID 31.
+[2025.01.06-08.59.08:213][261]LogAudio: Display: Audio Device (ID: 31) registered with world 'VampireHuntersMap'.
+[2025.01.06-08.59.08:213][261]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.01.06-08.59.08:395][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.06-08.59.08:395][261]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.06-08.59.08:439][261]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap up for play (max tick rate 60) at 2025.01.06-17.59.08
+[2025.01.06-08.59.08:440][261]LogWorld: Bringing up level for play took: 0.043735
+[2025.01.06-08.59.08:455][261]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2025.01.06-08.59.08:510][261]PIE: Server logged in
+[2025.01.06-08.59.08:520][261]PIE: Play in editor total start time 0.495 seconds.
+[2025.01.06-08.59.11:990][352]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.11:990][352]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.11:991][352]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.11:991][352]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.12:513][368]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.12:513][368]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.12:514][368]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.12:514][368]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.13:043][383]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.13:044][383]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.13:044][383]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.13:044][383]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.13:555][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.13:555][397]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.13:556][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.13:556][397]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.14:106][405]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.14:106][405]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.14:108][405]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.14:108][405]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.14:635][412]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.59.15:672][437]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.59.15:672][437]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.15:672][437]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.15:673][437]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.15:673][437]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.16:192][452]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.16:192][452]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.16:193][452]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.16:193][452]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.16:727][466]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.16:727][466]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.16:728][466]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.16:728][466]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.17:227][480]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.17:228][480]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.17:229][480]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.17:229][480]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.17:737][493]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.17:737][493]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.17:738][493]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.17:739][493]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.18:238][507]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.59.19:240][534]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.59.19:276][535]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.19:276][535]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.19:278][535]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.19:278][535]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.19:790][548]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.19:790][548]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.19:791][548]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.19:791][548]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.20:303][561]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.20:303][561]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.20:304][561]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.20:304][561]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.20:828][574]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.20:828][574]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.20:829][574]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.20:829][574]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.21:342][587]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.21:343][587]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.21:344][587]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.21:344][587]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.21:880][599]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.59.22:903][623]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.59.22:946][624]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.22:946][624]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.22:947][624]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.22:947][624]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.23:475][636]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.23:475][636]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.23:476][636]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.23:476][636]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.23:986][647]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.23:986][647]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.23:988][647]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.23:988][647]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.24:526][659]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.24:526][659]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.24:527][659]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.24:527][659]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.25:053][670]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.25:053][670]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.25:054][670]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.25:054][670]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.25:618][682]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.59.26:624][703]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.59.26:624][703]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.26:624][703]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.26:627][703]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.26:627][703]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.27:139][714]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.27:140][714]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.27:141][714]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.27:141][714]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.27:697][726]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.27:697][726]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.27:698][726]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.27:698][726]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.28:237][737]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.28:237][737]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.28:239][737]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.28:239][737]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.28:761][748]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.28:761][748]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.28:762][748]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.28:762][748]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.29:272][758]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.59.30:323][778]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.59.30:323][778]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.30:324][778]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.30:325][778]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.30:325][778]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.30:858][788]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.30:858][788]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.30:859][788]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.30:859][788]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.31:359][797]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.31:359][797]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.31:360][797]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.31:360][797]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.31:896][806]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.31:896][806]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.31:896][806]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.31:896][806]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.32:407][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.32:407][815]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.32:408][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.32:408][815]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.32:949][825]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Out of Ammo!
+[2025.01.06-08.59.33:967][842]LogBlueprintUserMessages: [Weapon_SG_C_0] Shotgun Reloded!
+[2025.01.06-08.59.34:024][843]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.34:025][843]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.34:025][843]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.34:025][843]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.34:535][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.34:536][851]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.34:537][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.34:537][851]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.35:089][860]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.35:090][860]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.35:091][860]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.35:091][860]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.35:290][863]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2
+[2025.01.06-08.59.35:292][863]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.06-08.59.35:292][863]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.01.06-08.59.36:522][899]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.06-08.59.36:522][899]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.01.06-08.59.36:792][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.36:792][903]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.36:793][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.36:793][903]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.37:031][907]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.37:031][907]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_1
+[2025.01.06-08.59.37:031][907]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.37:031][907]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_1
+[2025.01.06-08.59.37:332][912]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.37:332][912]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.37:333][912]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllSocketNames_ReturnValue' of length 0 in '/Game/SBS/Weapon/Weapon_SG.Weapon_SG_C:ExecuteUbergraph_Weapon_SG'!
+[2025.01.06-08.59.37:333][912]LogScript: Warning: Script Msg called by: Weapon_SG_C /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap:PersistentLevel.Weapon_SG_C_0
+[2025.01.06-08.59.37:401][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.06-08.59.37:401][912]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.06-08.59.37:402][912]LogSlate: Window 'VampireHunters Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.06-08.59.37:474][912]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-08.59.37:487][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-08.59.37:536][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.06-08.59.37:575][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-08.59.37:669][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.06-08.59.37:669][912]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.01.06-08.59.37:669][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.01.06-08.59.37:674][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.01.06-08.59.37:724][912]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2025.01.06-08.59.37:815][913]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2025.01.06-09.00.12:838][678]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2025.01.06-09.00.13:010][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/VampireHuntersMap_Auto0
+[2025.01.06-09.00.13:012][678]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/VampireHuntersMap_Auto0BC67535C4751B5AB939AEF97D888B8FC.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/FirstPerson/Maps/VampireHuntersMap_Auto0.umap'
+[2025.01.06-09.00.13:016][678]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/VampireHuntersMap' took 0.237
+[2025.01.06-09.00.13:016][678]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.237
+[2025.01.06-09.00.13:017][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_SpeedEnemy] ([2] browsable assets)...
+[2025.01.06-09.00.13:017][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_SpeedEnemy]
+[2025.01.06-09.00.13:079][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_SpeedEnemy_Auto0
+[2025.01.06-09.00.13:079][678]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/BP_SpeedEnemy_Auto0A4B78719478A30BD8B2528B6DBE97DAC.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_SpeedEnemy_Auto0.uasset'
+[2025.01.06-09.00.13:082][678]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.01.06-09.00.13:207][678]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.01.06-09.00.13:207][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.01.06-09.00.13:287][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto0
+[2025.01.06-09.00.13:288][678]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/BP_FirstPersonCharacter_Auto079346DE64185F26BBE248EBC64B23467.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto0.uasset'
+[2025.01.06-09.00.13:291][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Weapon/Weapon_SG] ([2] browsable assets)...
+[2025.01.06-09.00.13:291][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Weapon/Weapon_SG]
+[2025.01.06-09.00.13:291][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Weapon/Weapon_SG" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/Weapon/Weapon_SG_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.01.06-09.00.13:323][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SBS/Weapon/Weapon_SG_Auto0
+[2025.01.06-09.00.13:323][678]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Weapon_SG_Auto0C10188AB46D19E6DAE58E79E75F9CF60.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/Weapon/Weapon_SG_Auto0.uasset'
+[2025.01.06-09.00.13:325][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Bullet/Bullet_AK] ([2] browsable assets)...
+[2025.01.06-09.00.13:325][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Bullet/Bullet_AK]
+[2025.01.06-09.00.13:325][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Bullet/Bullet_AK" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/Bullet/Bullet_AK_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.01.06-09.00.13:343][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SBS/Bullet/Bullet_AK_Auto0
+[2025.01.06-09.00.13:343][678]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Bullet_AK_Auto0ACB9BA3E47DD8F501015DFB2BD333E24.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/Bullet/Bullet_AK_Auto0.uasset'
+[2025.01.06-09.00.13:345][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Bullet/Bullet_AWP] ([2] browsable assets)...
+[2025.01.06-09.00.13:346][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Bullet/Bullet_AWP]
+[2025.01.06-09.00.13:346][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Bullet/Bullet_AWP" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/Bullet/Bullet_AWP_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.01.06-09.00.13:366][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SBS/Bullet/Bullet_AWP_Auto0
+[2025.01.06-09.00.13:367][678]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Bullet_AWP_Auto05FF4DAA04AEC2A3E0950698442E9E0A9.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/Bullet/Bullet_AWP_Auto0.uasset'
+[2025.01.06-09.00.13:369][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Bullet/Bullet_RL] ([2] browsable assets)...
+[2025.01.06-09.00.13:369][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Bullet/Bullet_RL]
+[2025.01.06-09.00.13:369][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Bullet/Bullet_RL" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/Bullet/Bullet_RL_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.01.06-09.00.13:391][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SBS/Bullet/Bullet_RL_Auto0
+[2025.01.06-09.00.13:391][678]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Bullet_RL_Auto06EB9B22A481F4AFBB43B7787C5AB8993.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/Bullet/Bullet_RL_Auto0.uasset'
+[2025.01.06-09.00.13:393][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Bullet/Bullet_SG] ([2] browsable assets)...
+[2025.01.06-09.00.13:393][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Bullet/Bullet_SG]
+[2025.01.06-09.00.13:393][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Bullet/Bullet_SG" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/Bullet/Bullet_SG_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.01.06-09.00.13:414][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SBS/Bullet/Bullet_SG_Auto0
+[2025.01.06-09.00.13:414][678]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Bullet_SG_Auto0E86CB9894A564120700991B53A047CD0.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/Bullet/Bullet_SG_Auto0.uasset'
+[2025.01.06-09.00.13:416][678]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SBS/WeaponSelection] ([2] browsable assets)...
+[2025.01.06-09.00.13:423][678]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/SBS/WeaponSelection.WeaponSelection]
+[2025.01.06-09.00.13:423][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/WeaponSelection]
+[2025.01.06-09.00.13:423][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/WeaponSelection" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/WeaponSelection_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.01.06-09.00.13:474][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SBS/WeaponSelection_Auto0
+[2025.01.06-09.00.13:475][678]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/WeaponSelection_Auto0A0946EB74CAF721C4006C9866B85341E.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/WeaponSelection_Auto0.uasset'
+[2025.01.06-09.00.13:477][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Dragon] ([2] browsable assets)...
+[2025.01.06-09.00.13:477][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Dragon]
+[2025.01.06-09.00.13:515][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Dragon_Auto0
+[2025.01.06-09.00.13:515][678]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/BP_Dragon_Auto0F29236F54ACFFCE6A6665DAF70865083.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Dragon_Auto0.uasset'
+[2025.01.06-09.00.13:519][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Weapon/Weapon_AK] ([2] browsable assets)...
+[2025.01.06-09.00.13:519][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Weapon/Weapon_AK]
+[2025.01.06-09.00.13:519][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Weapon/Weapon_AK" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/Weapon/Weapon_AK_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.01.06-09.00.13:551][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SBS/Weapon/Weapon_AK_Auto0
+[2025.01.06-09.00.13:551][678]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Weapon_AK_Auto0180722CE4024234242DB0B82E72ADA38.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Autosaves/Game/SBS/Weapon/Weapon_AK_Auto0.uasset'
+[2025.01.06-09.00.13:553][678]LogFileHelpers: Auto-saving content packages took 0.537
+[2025.01.06-09.00.39:735][103]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14173.401367
+[2025.01.06-09.00.39:984][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.06-09.00.39:984][117]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14173.632812, Update Interval: 358.449036
+[2025.01.06-09.00.54:676][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.01.06-09.00.56:251][524]LogSlate: Window 'Save Content' being destroyed
+[2025.01.06-09.00.56:286][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.06-09.00.57:007][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.01.06-09.00.57:173][524]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/VampireHuntersMap
+[2025.01.06-09.00.57:174][524]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/VampireHuntersMap07E0637647E7ECF705A13398AAD3D5C8.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Content/FirstPerson/Maps/VampireHuntersMap.umap'
+[2025.01.06-09.00.57:276][524]LogFileHelpers: Saving map 'VampireHuntersMap' took 0.532
+[2025.01.06-09.00.57:277][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Dragon] ([2] browsable assets)...
+[2025.01.06-09.00.57:277][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Dragon]
+[2025.01.06-09.00.57:277][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Dragon" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Content/FirstPerson/Blueprints/BP_Dragon.uasset" SILENT=true
+[2025.01.06-09.00.57:310][524]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Dragon
+[2025.01.06-09.00.57:311][524]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/BP_Dragon016B8E77407350F36ECC6BA9C9F271D8.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Content/FirstPerson/Blueprints/BP_Dragon.uasset'
+[2025.01.06-09.00.57:316][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.01.06-09.00.57:316][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.01.06-09.00.57:374][524]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.01.06-09.00.57:375][524]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/BP_FirstPersonCharacterEA0AC4F744632FAFC9397887BEA7DBCC.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.01.06-09.00.57:378][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_SpeedEnemy] ([2] browsable assets)...
+[2025.01.06-09.00.57:378][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_SpeedEnemy]
+[2025.01.06-09.00.57:378][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_SpeedEnemy" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Content/FirstPerson/Blueprints/BP_SpeedEnemy.uasset" SILENT=true
+[2025.01.06-09.00.57:418][524]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_SpeedEnemy
+[2025.01.06-09.00.57:419][524]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/BP_SpeedEnemy7B6FB7A24FCFF28993D63983B67B9BDB.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Content/FirstPerson/Blueprints/BP_SpeedEnemy.uasset'
+[2025.01.06-09.00.57:421][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Bullet/Bullet_AK] ([2] browsable assets)...
+[2025.01.06-09.00.57:421][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Bullet/Bullet_AK]
+[2025.01.06-09.00.57:421][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Bullet/Bullet_AK" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/Bullet/Bullet_AK.uasset" SILENT=true
+[2025.01.06-09.00.57:432][524]LogSavePackage: Moving output files for package: /Game/SBS/Bullet/Bullet_AK
+[2025.01.06-09.00.57:432][524]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Bullet_AK5821314741B422E2C540359C453CE374.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/Bullet/Bullet_AK.uasset'
+[2025.01.06-09.00.57:434][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Bullet/Bullet_AWP] ([2] browsable assets)...
+[2025.01.06-09.00.57:434][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Bullet/Bullet_AWP]
+[2025.01.06-09.00.57:434][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Bullet/Bullet_AWP" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/Bullet/Bullet_AWP.uasset" SILENT=true
+[2025.01.06-09.00.57:447][524]LogSavePackage: Moving output files for package: /Game/SBS/Bullet/Bullet_AWP
+[2025.01.06-09.00.57:449][524]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Bullet_AWP8FC817FB49AD7032F0C37780F376998D.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/Bullet/Bullet_AWP.uasset'
+[2025.01.06-09.00.57:451][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Bullet/Bullet_RL] ([2] browsable assets)...
+[2025.01.06-09.00.57:452][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Bullet/Bullet_RL]
+[2025.01.06-09.00.57:452][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Bullet/Bullet_RL" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/Bullet/Bullet_RL.uasset" SILENT=true
+[2025.01.06-09.00.57:469][524]LogSavePackage: Moving output files for package: /Game/SBS/Bullet/Bullet_RL
+[2025.01.06-09.00.57:470][524]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Bullet_RL075A6EDD47282321EBB4C491253BC01D.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/Bullet/Bullet_RL.uasset'
+[2025.01.06-09.00.57:473][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Bullet/Bullet_SG] ([2] browsable assets)...
+[2025.01.06-09.00.57:473][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Bullet/Bullet_SG]
+[2025.01.06-09.00.57:474][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Bullet/Bullet_SG" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/Bullet/Bullet_SG.uasset" SILENT=true
+[2025.01.06-09.00.57:490][524]LogSavePackage: Moving output files for package: /Game/SBS/Bullet/Bullet_SG
+[2025.01.06-09.00.57:491][524]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Bullet_SGC76BC70A4106E21A6409E88228D22C75.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/Bullet/Bullet_SG.uasset'
+[2025.01.06-09.00.57:494][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Weapon/Weapon_AK] ([2] browsable assets)...
+[2025.01.06-09.00.57:494][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Weapon/Weapon_AK]
+[2025.01.06-09.00.57:494][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Weapon/Weapon_AK" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/Weapon/Weapon_AK.uasset" SILENT=true
+[2025.01.06-09.00.57:522][524]LogSavePackage: Moving output files for package: /Game/SBS/Weapon/Weapon_AK
+[2025.01.06-09.00.57:523][524]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Weapon_AKF1E39F3F483D83686CE3378903FDB0EA.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/Weapon/Weapon_AK.uasset'
+[2025.01.06-09.00.57:525][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Weapon/Weapon_SG] ([2] browsable assets)...
+[2025.01.06-09.00.57:525][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Weapon/Weapon_SG]
+[2025.01.06-09.00.57:525][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Weapon/Weapon_SG" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/Weapon/Weapon_SG.uasset" SILENT=true
+[2025.01.06-09.00.57:551][524]LogSavePackage: Moving output files for package: /Game/SBS/Weapon/Weapon_SG
+[2025.01.06-09.00.57:552][524]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/Weapon_SGAFD52BC24BE1A769021D2D9CEE0E31B2.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/Weapon/Weapon_SG.uasset'
+[2025.01.06-09.00.57:554][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/WeaponSelection] ([2] browsable assets)...
+[2025.01.06-09.00.57:555][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/WeaponSelection]
+[2025.01.06-09.00.57:555][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/WeaponSelection" FILE="../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/WeaponSelection.uasset" SILENT=true
+[2025.01.06-09.00.57:593][524]LogSavePackage: Moving output files for package: /Game/SBS/WeaponSelection
+[2025.01.06-09.00.57:594][524]LogSavePackage: Moving '../../../../../../Unreal/sourcetree/VampireHunters/Saved/WeaponSelectionAB74A06C473D03313D55A5BBEDC07451.tmp' to '../../../../../../Unreal/sourcetree/VampireHunters/Content/SBS/WeaponSelection.uasset'
+[2025.01.06-09.00.57:615][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.32 sec (total: 1.92 sec)
+[2025.01.06-09.00.57:984][524]LogStall: Shutdown...
+[2025.01.06-09.00.57:984][524]LogStall: Shutdown complete.
+[2025.01.06-09.00.58:233][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.06-09.00.58:233][524]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.00.58:233][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.00.58:781][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.06-09.00.58:781][524]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.00.58:782][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.00.59:196][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.06-09.00.59:196][524]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.00.59:196][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.00.59:574][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.06-09.00.59:574][524]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.00.59:575][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.00.59:919][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.06-09.00.59:919][524]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.00.59:919][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.00:422][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.06-09.01.00:422][524]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.00:422][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.00:769][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.06-09.01.00:769][524]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.00:769][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.01:115][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.06-09.01.01:115][524]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.01:116][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.01:437][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.06-09.01.01:437][524]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.01:437][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.01:764][524]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.01:764][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.01:795][524]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.01:795][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.01:967][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.06-09.01.01:967][524]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.01:967][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.02:436][524]LogSlate: Window 'VampireHunters - Unreal Editor' being destroyed
+[2025.01.06-09.01.03:311][524]LogContentValidation: Display: Starting to validate 11 assets
+[2025.01.06-09.01.03:311][524]LogContentValidation: Enabled validators:
+[2025.01.06-09.01.03:311][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.06-09.01.03:311][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.06-09.01.03:311][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.06-09.01.03:311][524]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.06-09.01.03:311][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.06-09.01.03:311][524]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.06-09.01.03:311][524]AssetCheck: /Game/FirstPerson/Maps/VampireHuntersMap Validating asset
+[2025.01.06-09.01.03:311][524]AssetCheck: /Game/FirstPerson/Blueprints/BP_Dragon Validating asset
+[2025.01.06-09.01.03:311][524]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.01.06-09.01.03:311][524]AssetCheck: /Game/FirstPerson/Blueprints/BP_SpeedEnemy Validating asset
+[2025.01.06-09.01.03:311][524]AssetCheck: /Game/SBS/Bullet/Bullet_AK Validating asset
+[2025.01.06-09.01.03:311][524]AssetCheck: /Game/SBS/Bullet/Bullet_AWP Validating asset
+[2025.01.06-09.01.03:312][524]AssetCheck: /Game/SBS/Bullet/Bullet_RL Validating asset
+[2025.01.06-09.01.03:312][524]AssetCheck: /Game/SBS/Bullet/Bullet_SG Validating asset
+[2025.01.06-09.01.03:312][524]AssetCheck: /Game/SBS/Weapon/Weapon_AK Validating asset
+[2025.01.06-09.01.03:312][524]AssetCheck: /Game/SBS/Weapon/Weapon_SG Validating asset
+[2025.01.06-09.01.03:313][524]AssetCheck: /Game/SBS/WeaponSelection Validating asset
+[2025.01.06-09.01.03:404][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2025.01.06-09.01.03:519][524]Cmd: QUIT_EDITOR
+[2025.01.06-09.01.03:519][524]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.06-09.01.03:559][525]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.06-09.01.03:559][525]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.06-09.01.03:560][525]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.06-09.01.03:573][525]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:574][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:646][525]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.01.06-09.01.03:649][525]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.06-09.01.03:667][525]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:667][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:673][525]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:673][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:678][525]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:678][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:683][525]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:683][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:688][525]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:688][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:693][525]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:694][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:699][525]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:699][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:704][525]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:704][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:708][525]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:708][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:713][525]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:713][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:717][525]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:717][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:722][525]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:722][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:725][525]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:726][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:731][525]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:732][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:736][525]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:736][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:740][525]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:740][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:744][525]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:744][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:748][525]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:748][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:752][525]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:752][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:757][525]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:757][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:761][525]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:761][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:765][525]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:765][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:769][525]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:769][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:773][525]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:773][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:777][525]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:777][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:781][525]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:782][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:785][525]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:785][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:789][525]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:789][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:793][525]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:793][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:798][525]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:798][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:802][525]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:802][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:806][525]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.01.06-09.01.03:806][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.06-09.01.03:812][525]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.01.06-09.01.03:817][525]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.01.06-09.01.03:817][525]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.01.06-09.01.03:817][525]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.01.06-09.01.04:701][525]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.06-09.01.04:701][525]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.06-09.01.04:701][525]LogAudio: Display: Audio Device unregistered from world 'VampireHuntersMap'.
+[2025.01.06-09.01.04:701][525]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.01.06-09.01.04:701][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.06-09.01.04:711][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.06-09.01.04:745][525]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.01.06-09.01.04:746][525]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.06-09.01.04:754][525]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2025.01.06-09.01.04:762][525]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.06-09.01.04:763][525]LogExit: Preparing to exit.
+[2025.01.06-09.01.04:886][525]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2025.01.06-09.01.04:900][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:900][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:921][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:924][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:924][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:924][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:924][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:924][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:924][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:924][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:924][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:924][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:925][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:925][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:925][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:925][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:925][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:925][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:927][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:930][525]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.04:930][525]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.06-09.01.06:345][525]LogEditorDataStorage: Deinitializing
+[2025.01.06-09.01.07:031][525]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.06-09.01.07:188][525]LogExit: Editor shut down
+[2025.01.06-09.01.07:231][525]LogExit: Transaction tracking system shut down
+[2025.01.06-09.01.09:138][525]LogExit: Object subsystem successfully closed.
+[2025.01.06-09.01.09:258][525]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.01.06-09.01.10:888][525]LogMemoryProfiler: Shutdown
+[2025.01.06-09.01.10:888][525]LogNetworkingProfiler: Shutdown
+[2025.01.06-09.01.10:889][525]LoadingProfiler: Shutdown
+[2025.01.06-09.01.10:889][525]LogTimingProfiler: Shutdown
+[2025.01.06-09.01.12:753][525]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.01.06-09.01.12:798][525]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.01.06-09.01.12:798][525]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BED150F97-49DD-C601-E3A3-649511DE5BC5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=c51f19d84da1bb94da532b919722670d%7C03278ddf214045878b9479378641f95c%7Ce8fac63d-edc2-46b1-b906-97244862a331&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.01.06-09.01.13:888][525]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.01.06-09.01.13:905][525]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.01.06-09.01.13:905][525]LogNFORDenoise: NFORDenoise function shutting down
+[2025.01.06-09.01.13:906][525]RenderDocPlugin: plugin has been unloaded.
+[2025.01.06-09.01.13:908][525]LogXGEController: Cleaning working directory: C:/Users/MSI/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.01.06-09.01.13:919][525]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.01.06-09.01.13:919][525]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.01.06-09.01.13:919][525]LogPakFile: Destroying PakPlatformFile
+[2025.01.06-09.01.16:582][525]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.01.06-09.01.16:794][525]LogExit: Exiting.
