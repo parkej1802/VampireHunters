@@ -1907,3 +1907,6 @@ Sampler Limit: 32
 [2025.01.07-01.50.39:711][871]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 340.041260, Update Interval: 351.478027
 [2025.01.07-01.54.47:383][613]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/Fab/Shotgun/SK_shotgun_BASE_975.uasset" is too small (0 bytes, expected at least 32 bytes)
 [2025.01.07-01.54.47:383][613]LogAssetRegistry: Error: Package is unloadable: C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/Fab/Shotgun/SK_shotgun_BASE_975.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+[2025.01.07-01.56.33:753][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 694.416016
+[2025.01.07-01.56.34:752][935]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.07-01.56.34:752][935]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 695.085083, Update Interval: 356.561157
