@@ -72,3 +72,4 @@ VampireHunters/Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 VampireHunters/DerivedDataCache/*
+VampireHunters/Saved/Logs/VampireHunters.log
