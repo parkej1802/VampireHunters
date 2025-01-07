@@ -3922,3 +3922,184 @@ FPackageName: Skipped package /Game/FirstPerson/WeaponSelection_UI/WeaponSelecti
 [2025.01.07-08.09.27:825][827]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
 [2025.01.07-08.09.27:981][828]LogPlayLevel: Display: Destroying online subsystem :Context_56
 [2025.01.07-08.09.46:101][228]LogChaosDD: Creating Chaos Debug Draw Scene for world World_40
+[2025.01.07-08.10.44:036][938]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.01.07-08.10.44:055][938]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.01.07-08.10.58:697][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2025.01.07-08.10.58:794][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-08.10.59:131][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.01.07-08.10.59:285][226]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/VampireHuntersMap
+[2025.01.07-08.10.59:286][226]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/VampireHuntersMap5D3861E345A2C4C4ACAABCAFC18C3502.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Maps/VampireHuntersMap.umap'
+[2025.01.07-08.10.59:366][226]LogFileHelpers: Saving map 'VampireHuntersMap' took 0.505
+[2025.01.07-08.10.59:367][226]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2025.01.07-08.10.59:367][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Enemy]
+[2025.01.07-08.10.59:423][226]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Enemy
+[2025.01.07-08.10.59:424][226]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/BP_Enemy46FAAF294F4385FB25C66EB7C133B4E4.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_Enemy.uasset'
+[2025.01.07-08.10.59:426][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_SpeedEnemy] ([2] browsable assets)...
+[2025.01.07-08.10.59:426][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_SpeedEnemy]
+[2025.01.07-08.10.59:473][226]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_SpeedEnemy
+[2025.01.07-08.10.59:474][226]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/BP_SpeedEnemyEE9F62014FCC190E63BDB7BD8B6B0AA0.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_SpeedEnemy.uasset'
+[2025.01.07-08.10.59:477][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.01.07-08.10.59:477][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.01.07-08.10.59:532][226]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.01.07-08.10.59:533][226]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/BP_FirstPersonCharacter1B427E394102A73C4149208E51F773E7.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.01.07-08.10.59:535][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SBS/Bullet/Bullet_SG] ([2] browsable assets)...
+[2025.01.07-08.10.59:535][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/SBS/Bullet/Bullet_SG]
+[2025.01.07-08.10.59:535][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SBS/Bullet/Bullet_SG" FILE="../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/SBS/Bullet/Bullet_SG.uasset" SILENT=true
+[2025.01.07-08.10.59:551][226]LogSavePackage: Moving output files for package: /Game/SBS/Bullet/Bullet_SG
+[2025.01.07-08.10.59:552][226]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/Bullet_SGE2B13D464F95DB8062D266B561489466.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/SBS/Bullet/Bullet_SG.uasset'
+[2025.01.07-08.10.59:563][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 768.667 ms
+[2025.01.07-08.10.59:636][226]LogContentValidation: Display: Starting to validate 5 assets
+[2025.01.07-08.10.59:636][226]LogContentValidation: Enabled validators:
+[2025.01.07-08.10.59:636][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.07-08.10.59:636][226]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-08.10.59:636][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-08.10.59:636][226]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.07-08.10.59:636][226]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-08.10.59:636][226]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.07-08.10.59:637][226]AssetCheck: /Game/FirstPerson/Maps/VampireHuntersMap Validating asset
+[2025.01.07-08.10.59:637][226]AssetCheck: /Game/FirstPerson/Blueprints/BP_Enemy Validating asset
+[2025.01.07-08.10.59:637][226]AssetCheck: /Game/FirstPerson/Blueprints/BP_SpeedEnemy Validating asset
+[2025.01.07-08.10.59:637][226]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.01.07-08.10.59:637][226]AssetCheck: /Game/SBS/Bullet/Bullet_SG Validating asset
+[2025.01.07-08.12.19:907][145]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.01.07-08.12.19:961][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.07-08.12.19:961][145]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.07-08.12.20:004][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043619s)
+[2025.01.07-08.12.20:005][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/VampireHuntersMap.VampireHuntersMap to /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap (0.043680s)
+[2025.01.07-08.12.20:062][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2025.01.07-08.12.20:066][145]LogChaosDD: Creating Chaos Debug Draw Scene for world VampireHuntersMap
+[2025.01.07-08.12.20:069][145]LogPlayLevel: PIE: World Init took: (0.003218s)
+[2025.01.07-08.12.20:071][145]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.01.07-08.12.20:071][145]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.07-08.12.20:071][145]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.07-08.12.20:071][145]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.07-08.12.20:071][145]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.07-08.12.20:071][145]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.07-08.12.20:071][145]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.07-08.12.20:071][145]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.07-08.12.20:071][145]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.07-08.12.20:072][145]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.07-08.12.20:072][145]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.07-08.12.20:072][145]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.07-08.12.20:076][145]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.07-08.12.20:207][145]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.01.07-08.12.20:207][145]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.07-08.12.20:207][145]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.07-08.12.20:207][145]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.07-08.12.20:209][145]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.01.07-08.12.20:209][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.01.07-08.12.20:213][145]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.01.07-08.12.20:213][145]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.01.07-08.12.20:213][145]LogInit: FAudioDevice initialized with ID 18.
+[2025.01.07-08.12.20:213][145]LogAudio: Display: Audio Device (ID: 18) registered with world 'VampireHuntersMap'.
+[2025.01.07-08.12.20:213][145]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.01.07-08.12.20:355][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-08.12.20:355][145]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.07-08.12.20:389][145]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap.VampireHuntersMap up for play (max tick rate 60) at 2025.01.07-17.12.20
+[2025.01.07-08.12.20:390][145]LogWorld: Bringing up level for play took: 0.034026
+[2025.01.07-08.12.20:400][145]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.01.07-08.12.20:460][145]PIE: Server logged in
+[2025.01.07-08.12.20:469][145]PIE: Play in editor total start time 0.509 seconds.
+[2025.01.07-08.12.22:925][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-08.12.22:925][219]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_VampireHuntersMap
+[2025.01.07-08.12.22:926][219]LogSlate: Window 'VampireHunters Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.07-08.12.22:994][219]LogWorld: UWorld::CleanupWorld for VampireHuntersMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-08.12.23:005][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-08.12.23:071][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.07-08.12.23:089][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-08.12.23:154][219]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.01.07-08.12.23:154][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.01.07-08.12.23:160][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.01.07-08.12.23:189][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2025.01.07-08.12.23:302][220]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.01.07-08.12.27:893][334]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/UI/GameStart_UI/GameMainWBP.GameMainWBP
+[2025.01.07-08.12.27:894][334]LogChaosDD: Creating Chaos Debug Draw Scene for world World_41
+[2025.01.07-08.12.27:947][334]LogChaosDD: Creating Chaos Debug Draw Scene for world World_42
+[2025.01.07-08.12.47:858][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-08.12.47:950][211]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/UI/GameStart_UI/GameMainWBP] ([2] browsable assets)...
+[2025.01.07-08.12.47:956][211]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/UI/GameStart_UI/GameMainWBP.GameMainWBP]
+[2025.01.07-08.12.47:956][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/UI/GameStart_UI/GameMainWBP]
+[2025.01.07-08.12.47:965][211]LogSavePackage: Moving output files for package: /Game/FirstPerson/UI/GameStart_UI/GameMainWBP
+[2025.01.07-08.12.47:966][211]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/GameMainWBP99D351DA4658012087C5E1A75DF1062D.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/UI/GameStart_UI/GameMainWBP.uasset'
+[2025.01.07-08.12.47:978][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.654 ms (total: 889.321 ms)
+[2025.01.07-08.12.48:036][211]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-08.12.48:036][211]LogContentValidation: Enabled validators:
+[2025.01.07-08.12.48:036][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.07-08.12.48:036][211]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-08.12.48:036][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-08.12.48:036][211]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.07-08.12.48:036][211]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-08.12.48:036][211]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.07-08.12.48:037][211]AssetCheck: /Game/FirstPerson/UI/GameStart_UI/GameMainWBP Validating asset
+[2025.01.07-08.12.52:904][341]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/UI/Selection_UI/Selection.Selection
+[2025.01.07-08.12.52:904][341]LogChaosDD: Creating Chaos Debug Draw Scene for world World_44
+[2025.01.07-08.12.52:962][341]LogChaosDD: Creating Chaos Debug Draw Scene for world World_45
+[2025.01.07-08.13.15:108][522]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8160.775879
+[2025.01.07-08.13.15:374][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.07-08.13.15:374][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8161.024414, Update Interval: 326.741547
+[2025.01.07-08.14.51:463][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-08.14.51:523][832]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/UI/Selection_UI/Selection] ([2] browsable assets)...
+[2025.01.07-08.14.51:530][832]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/UI/Selection_UI/Selection.Selection]
+[2025.01.07-08.14.51:530][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/UI/Selection_UI/Selection]
+[2025.01.07-08.14.51:547][832]LogSavePackage: Moving output files for package: /Game/FirstPerson/UI/Selection_UI/Selection
+[2025.01.07-08.14.51:548][832]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/Selection4FFD47C74E69C626D10019A2381E83CB.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/UI/Selection_UI/Selection.uasset'
+[2025.01.07-08.14.51:563][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.466 ms (total: 988.787 ms)
+[2025.01.07-08.14.51:618][832]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-08.14.51:618][832]LogContentValidation: Enabled validators:
+[2025.01.07-08.14.51:618][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.07-08.14.51:618][832]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-08.14.51:618][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-08.14.51:618][832]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.07-08.14.51:618][832]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-08.14.51:618][832]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.07-08.14.51:619][832]AssetCheck: /Game/FirstPerson/UI/Selection_UI/Selection Validating asset
+[2025.01.07-08.14.52:828][897]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-08.14.52:828][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-08.14.52:859][897]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-08.14.52:859][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-08.14.53:115][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.01.07-08.14.57:115][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-08.14.57:175][127]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/UI/GameStart_UI/GameMainWBP] ([2] browsable assets)...
+[2025.01.07-08.14.57:180][127]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/UI/GameStart_UI/GameMainWBP.GameMainWBP]
+[2025.01.07-08.14.57:180][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/UI/GameStart_UI/GameMainWBP]
+[2025.01.07-08.14.57:188][127]LogSavePackage: Moving output files for package: /Game/FirstPerson/UI/GameStart_UI/GameMainWBP
+[2025.01.07-08.14.57:189][127]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/GameMainWBP5DCD54704DFC37D5B33A49A7465036E9.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/UI/GameStart_UI/GameMainWBP.uasset'
+[2025.01.07-08.14.57:204][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.626 ms (total: 1.07 sec)
+[2025.01.07-08.14.57:271][127]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-08.14.57:271][127]LogContentValidation: Enabled validators:
+[2025.01.07-08.14.57:271][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.07-08.14.57:271][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-08.14.57:272][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-08.14.57:272][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.07-08.14.57:272][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-08.14.57:272][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.07-08.14.57:272][127]AssetCheck: /Game/FirstPerson/UI/GameStart_UI/GameMainWBP Validating asset
+[2025.01.07-08.14.57:907][162]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-08.14.57:908][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-08.14.57:938][162]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-08.14.57:938][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-08.14.59:697][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2025.01.07-08.15.03:552][228]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/UI/Upgrade_UI/Upgrade.Upgrade
+[2025.01.07-08.15.03:553][228]LogChaosDD: Creating Chaos Debug Draw Scene for world World_48
+[2025.01.07-08.15.03:603][228]LogChaosDD: Creating Chaos Debug Draw Scene for world World_49
+[2025.01.07-08.15.42:582][ 58]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.01.07-08.19.40:739][285]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8546.339844
+[2025.01.07-08.19.41:087][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2025.01.07-08.19.41:107][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-08.19.41:172][290]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/UI/Upgrade_UI/Upgrade] ([2] browsable assets)...
+[2025.01.07-08.19.41:177][290]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/UI/Upgrade_UI/Upgrade.Upgrade]
+[2025.01.07-08.19.41:177][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/UI/Upgrade_UI/Upgrade]
+[2025.01.07-08.19.41:228][290]LogSavePackage: Moving output files for package: /Game/FirstPerson/UI/Upgrade_UI/Upgrade
+[2025.01.07-08.19.41:229][290]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/Upgrade435FDED5482C1799640E8CA7F2D9CC29.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/UI/Upgrade_UI/Upgrade.uasset'
+[2025.01.07-08.19.41:244][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.718 ms (total: 1.21 sec)
+[2025.01.07-08.19.41:303][290]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-08.19.41:303][290]LogContentValidation: Enabled validators:
+[2025.01.07-08.19.41:303][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.07-08.19.41:303][290]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-08.19.41:303][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-08.19.41:303][290]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.07-08.19.41:303][290]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-08.19.41:303][290]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.07-08.19.41:305][290]AssetCheck: /Game/FirstPerson/UI/Upgrade_UI/Upgrade Validating asset
+[2025.01.07-08.19.41:372][291]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.07-08.19.41:372][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8546.932617, Update Interval: 301.417267

@@ -13,7 +13,14 @@
 				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/WeaponSelection_UI/WeaponSelection.uasset",
 				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/UI/WeaponSelection_UI/WeaponSelection.uasset",
 				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/SBS/Backup2.uasset",
-				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/SBS/BP_FirstPersonCharacter.uasset"
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/SBS/BP_FirstPersonCharacter.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Maps/VampireHuntersMap.umap",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_Enemy.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_SpeedEnemy.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/UI/GameStart_UI/GameMainWBP.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/UI/Selection_UI/Selection.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/UI/Upgrade_UI/Upgrade.uasset"
 			]
 		}
 	]
