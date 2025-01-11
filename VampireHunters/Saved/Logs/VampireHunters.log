@@ -4962,3 +4962,39 @@ Continue: Skip saving this asset only.
 [2025.01.11-16.29.15:669][413]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2
 [2025.01.11-16.29.15:670][413]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/BP_FirstPersonCharacter_Auto2E024C0664DF81D4CABD44795875AE11A.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
 [2025.01.11-16.29.15:671][413]LogFileHelpers: Auto-saving content packages took 0.645
+[2025.01.11-16.29.50:743][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.01.11-16.29.50:748][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-16.29.50:775][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2025.01.11-16.29.50:775][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Enemy]
+[2025.01.11-16.29.50:799][539]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Enemy
+[2025.01.11-16.29.50:800][539]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/BP_EnemyDBCBA6B144D18F9D18BEA8B16A4BC2EB.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_Enemy.uasset'
+[2025.01.11-16.29.50:802][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_ExplosionEnemy] ([2] browsable assets)...
+[2025.01.11-16.29.50:802][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_ExplosionEnemy]
+[2025.01.11-16.29.50:825][539]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_ExplosionEnemy
+[2025.01.11-16.29.50:826][539]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/BP_ExplosionEnemy76EF7A7D41FEE3F09A9136AC0EF671BF.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_ExplosionEnemy.uasset'
+[2025.01.11-16.29.50:827][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_SpeedEnemy] ([2] browsable assets)...
+[2025.01.11-16.29.50:827][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_SpeedEnemy]
+[2025.01.11-16.29.50:847][539]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_SpeedEnemy
+[2025.01.11-16.29.50:848][539]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/BP_SpeedEnemy753D541A41E45D85FD39539D3D213416.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_SpeedEnemy.uasset'
+[2025.01.11-16.29.50:849][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_TankerEnemy] ([2] browsable assets)...
+[2025.01.11-16.29.50:849][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_TankerEnemy]
+[2025.01.11-16.29.50:872][539]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_TankerEnemy
+[2025.01.11-16.29.50:873][539]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/BP_TankerEnemy4BDEED3A4D6E4221CB0A04B0FDE81892.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_TankerEnemy.uasset'
+[2025.01.11-16.29.50:874][539]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.01.11-16.29.50:874][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.01.11-16.29.50:908][539]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.01.11-16.29.50:908][539]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/BP_FirstPersonCharacterFF969EB141FD3C57D89B4CB7534ABE22.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.01.11-16.29.50:915][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.704 ms (total: 26.3 sec)
+[2025.01.11-16.29.50:948][539]LogContentValidation: Display: Starting to validate 5 assets
+[2025.01.11-16.29.50:948][539]LogContentValidation: Enabled validators:
+[2025.01.11-16.29.50:948][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-16.29.50:948][539]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-16.29.50:948][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-16.29.50:948][539]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-16.29.50:948][539]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-16.29.50:948][539]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-16.29.50:948][539]AssetCheck: /Game/FirstPerson/Blueprints/BP_Enemy Validating asset
+[2025.01.11-16.29.50:948][539]AssetCheck: /Game/FirstPerson/Blueprints/BP_ExplosionEnemy Validating asset
+[2025.01.11-16.29.50:948][539]AssetCheck: /Game/FirstPerson/Blueprints/BP_SpeedEnemy Validating asset
+[2025.01.11-16.29.50:948][539]AssetCheck: /Game/FirstPerson/Blueprints/BP_TankerEnemy Validating asset
+[2025.01.11-16.29.50:948][539]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
