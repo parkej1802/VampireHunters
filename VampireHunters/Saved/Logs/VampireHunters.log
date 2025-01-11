@@ -2518,3 +2518,40 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.11-19.23.23:097][931]LogPlayLevel: Display: Destroying online subsystem :Context_28
 [2025.01.11-19.23.31:699][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2025.01.11-19.23.33:350][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.11-19.25.19:839][254]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/UI/Stat_UI/WBP_Stat.WBP_Stat
+[2025.01.11-19.25.19:839][254]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2025.01.11-19.25.19:857][254]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2025.01.11-19.26.08:294][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-19.26.08:330][923]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.01.11-19.26.08:453][923]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.01.11-19.26.08:454][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.01.11-19.26.08:491][923]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.01.11-19.26.08:491][923]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/BP_FirstPersonCharacter7E9C39E041DE6D7E9833EEA4DBCB712B.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.01.11-19.26.08:500][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 206.262 ms (total: 1.05 sec)
+[2025.01.11-19.26.08:532][923]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-19.26.08:533][923]LogContentValidation: Enabled validators:
+[2025.01.11-19.26.08:533][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-19.26.08:533][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-19.26.08:533][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-19.26.08:533][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-19.26.08:533][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-19.26.08:533][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-19.26.08:533][923]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.01.11-19.26.20:299][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.01.11-19.26.20:305][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-19.26.20:354][619]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.01.11-19.26.20:354][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.01.11-19.26.20:388][619]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.01.11-19.26.20:389][619]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Saved/BP_FirstPersonCharacterFD6516DF4C9CBDCC36DD61AFDB736E6A.tmp' to '../../../../../../Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.01.11-19.26.20:397][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.146 ms (total: 1.15 sec)
+[2025.01.11-19.26.20:439][619]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-19.26.20:440][619]LogContentValidation: Enabled validators:
+[2025.01.11-19.26.20:440][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-19.26.20:440][619]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-19.26.20:440][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-19.26.20:440][619]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-19.26.20:440][619]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-19.26.20:440][619]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-19.26.20:440][619]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.01.11-19.26.22:051][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.11-19.26.24:963][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
