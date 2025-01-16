@@ -1,2 +1,3 @@
-2024/12/27-12:59:44.352 aa4 Creating DB C:/Users/MSI/Documents/VampireHunters/VampireHunters/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/12/27-12:59:44.367 aa4 Reusing MANIFEST C:/Users/MSI/Documents/VampireHunters/VampireHunters/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/12/27-13:58:59.004 453c Reusing MANIFEST C:/Users/MSI/Documents/VampireHunters/VampireHunters/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/12/27-13:58:59.005 453c Recovering log #3
+2024/12/27-13:58:59.006 453c Reusing old log C:/Users/MSI/Documents/VampireHunters/VampireHunters/Saved/webcache_4430\Local Storage\leveldb/000003.log 
