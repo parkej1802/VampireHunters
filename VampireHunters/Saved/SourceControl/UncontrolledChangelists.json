@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/UI/Selection_UI/Selection.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/UI/TreasureDirection_UI/TreasureDirection.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/Fab/Arrow/ZVHYd6c.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_HealthPotion.uasset",
+				"C:/Users/MSI/Documents/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_TreasureBox.uasset"
 			]
 		}
 	]
