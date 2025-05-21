@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GitHub/VampireHunters/VampireHunters/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/GitHub/VampireHunters/VampireHunters/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_TankerEnemy.uasset",
+				"D:/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_SpeedEnemy.uasset",
+				"D:/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_Enemy.uasset",
+				"D:/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/GitHub/VampireHunters/VampireHunters/Content/FirstPerson/Blueprints/BP_EnemyGATE.uasset"
 			]
 		}
 	]
